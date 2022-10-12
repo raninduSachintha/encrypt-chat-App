@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "567767257301",
+    "firebase_url": "https://encrypt-chatapp-default-rtdb.firebaseio.com",
+    "project_id": "encrypt-chatapp",
+    "storage_bucket": "encrypt-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567767257301:android:4bbe2b2c9a4afda330525c",
+        "android_client_info": {
+          "package_name": "com.nibm.softwaresecurity.encryptchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567767257301-lccbm8uam2q5vj6cmvuoak92u6jf014u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAaawZ0VkzQWs-LjjSsL7CtPuK12x3YR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567767257301-lccbm8uam2q5vj6cmvuoak92u6jf014u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
